@@ -1,6 +1,4 @@
-# Welcome to your Expo app 👋
-
-This is the test task
+# Expo hello world application 👋
 
 ## Get started
 
@@ -14,4 +12,9 @@ This is the test task
 
    ```bash
     npx expo start
+   ```
+
+   - start web application
+   ```
+   npm run web
    ```
